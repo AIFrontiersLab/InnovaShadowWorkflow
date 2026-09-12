@@ -53,11 +53,7 @@ Consented capture, clustering, proposal UI, optional operator.
 
 ---
 
-## Quick start
-
-```bash
-python3 -m http.server 4173 --directory "/Users/aiserver/Workspace_New/VectraFutureLab/outputs/futurelab/2026-09-11/run_60548ea6e973/prototype"
-```
+ 
 
 ---
 
